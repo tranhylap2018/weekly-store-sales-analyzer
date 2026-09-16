@@ -1,0 +1,74 @@
+======== MONTHLY SALES REPORT ========
+
+--- DATASET INFORMATION ---
+Shape: (4, 4, 7)
+Dimensions: 3
+Number of values: 112
+
+--- WEEKLY TOTALS ---
+Week 1: 431 units
+Week 2: 470 units
+Week 3: 484 units
+Week 4: 529 units
+
+Best week: Week 4 (529 units)
+
+--- PRODUCT TOTALS ---
+Product A: 572 units
+Product B: 393 units
+Product C: 675 units
+Product D: 274 units
+
+Best-selling product: Product C (675 units)
+
+--- PRODUCT AVERAGES ---
+Product A: 20.43 units/day
+Product B: 14.04 units/day
+Product C: 24.11 units/day
+Product D: 9.79 units/day
+
+--- SALES BY DAY OF WEEK ---
+Mon: 199 units
+Tue: 222 units
+Wed: 220 units
+Thu: 258 units
+Fri: 296 units
+Sat: 336 units
+Sun: 383 units
+
+Busiest day: Sun (383 units)
+
+--- WEEKDAY VS WEEKEND ---
+Weekday total: 1195
+Weekend total: 719
+Higher sales period: Weekdays
+
+--- HIGH SALES VALUES ---
+Individual sales >= 30:
+[30 32 30 31 35 30 32]
+
+--- PRODUCT WEEKLY TRENDS ---
+
+Product A:
+Week 1: 131 units
+Week 2: 143 units
+Week 3: 143 units
+Week 4: 155 units
+
+Product B:
+Week 1: 87 units
+Week 2: 95 units
+Week 3: 100 units
+Week 4: 111 units
+
+Product C:
+Week 1: 156 units
+Week 2: 165 units
+Week 3: 170 units
+Week 4: 184 units
+
+Product D:
+Week 1: 57 units
+Week 2: 67 units
+Week 3: 71 units
+Week 4: 79 units
